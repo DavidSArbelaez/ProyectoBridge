@@ -1,3 +1,4 @@
+package informePre;
 public class RespuestaSeleccionUnica extends Respuesta{
 
     @Override

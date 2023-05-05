@@ -1,3 +1,4 @@
+package informePre;
 import java.util.List;
 
 public interface Pregunta {

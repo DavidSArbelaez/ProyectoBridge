@@ -1,3 +1,5 @@
+package informePre;
+
 public class EncuestaBasica extends Encuesta{
     public EncuestaBasica(Pregunta pregunta) {
         super(pregunta);

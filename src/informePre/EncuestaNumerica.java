@@ -1,4 +1,4 @@
-
+package informePre;
 public class EncuestaNumerica extends Encuesta {
 
 	public EncuestaNumerica(Pregunta pregunta) {

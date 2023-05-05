@@ -4,7 +4,7 @@ package Informe1;
 public class Launcher {
     public static void main(String[] args) {
         
-        Informe informe1 = new Informe();
+        /*Informe inf1 = new Informe();
         OtroInforme informe2 = new OtroInforme();
         InformeInterface adapter = new InformeAdapter(informe1, informe2);
     
@@ -12,7 +12,7 @@ public class Launcher {
         adapter.cantidadRespuestas();    
         adapter.cantidadRespuestasTipo();    
         adapter.definirPregunta();  
-        adapter.definirPregunta(2);
+        adapter.definirPregunta(2);*/
         
         Informe inf = new Informe();
         inf.hacerPreguntaAleatoriaTipo(5, 3);

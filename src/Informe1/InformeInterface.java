@@ -1,3 +1,4 @@
+package Informe1;
 public interface InformeInterface {
     public void PromedioTipo();
     public int cantidadRespuestas();
